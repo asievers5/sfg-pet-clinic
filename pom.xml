@@ -21,7 +21,11 @@
     <properties>
         <java.version>11</java.version>
     </properties>
-
+    <scm>
+        <developerConnection>
+            scm:git:git@github.com:asievers5/sfg-pet-clinic.git
+        </developerConnection>
+    </scm>
     <build>
         <plugins>
             <plugin>
